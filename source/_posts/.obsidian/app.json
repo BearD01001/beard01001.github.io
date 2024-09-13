@@ -1,4 +1,4 @@
 {
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "./<note_name>"
+  "attachmentFolderPath": "./${not_name}"
 }
