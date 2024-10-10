@@ -9,6 +9,7 @@
     "relogin": "firebase login --reauth",
     "init": "firebase login && firebase init",
     "deploy": "firebase deploy",
+    "build": "hexo clean && hexo g",
     "hexo": "hexo clean && hexo g && hexo d",
     "new-post": "hexo new post",
     "server": "hexo s",
